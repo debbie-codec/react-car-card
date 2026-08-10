@@ -43,5 +43,21 @@
         "transmission": "Automatic",
         "fuel": "Gasoline",
         "color": "White"
+    },
+
+    {
+        "id": 4,
+        "title": "Honda Accord",    
+    "description": "Honda Accord is a midsize sedan that offers a comfortable ride, spacious interior, and excellent fuel efficiency. It comes with advanced safety features and a reputation for reliability.",
+    "image": "/honda.webp",
+    "year": 2020,
+    "make": "Honda",
+    "model": "Accord",
+    "price": 22000,
+    "mileage": 15000,
+    "engine": "1.5L 4-Cylinder",
+    "transmission": "Automatic",
+    "fuel": "Gasoline",
+    "color": "Silver"
     }
 ]
